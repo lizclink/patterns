@@ -1,3 +1,8 @@
-### This is where my pattern for a basic baby hat lives.
+# Basic Baby Hat
 
-(Needs help!)
+## Todo
+
+- [ ] Add yarn suggestion
+- [ ] Add notions
+- [ ] Add guide/key to abbreviations
+- [ ] Add pattern instructions
