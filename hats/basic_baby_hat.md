@@ -4,7 +4,7 @@
 
 - [x] Add yarn suggestion
 - [x] Add notions
-- [ ] Add guide/key to abbreviations
+- [x] Add guide/key to abbreviations
 - [ ] Add pattern instructions
 
 ### Yarn suggestion
@@ -20,9 +20,32 @@
 * stitch marker for beginning of round, additional stitch markers to mark decreases if desired
 
 ### Abbreviations
+* c/o - cast on
 * k - knit
 * p - purl
 * k2tog - knit 2 together
 * pm - place marker
 * sm - slip marker
+* DPNS - double pointed needles
+ 
+### Instructions
+
+* using long tail cast-on, c/o 96 sts
+* pm for beginning of round
+* join for knitting in the round, being careful not to twist
+* k2 p2 until hat measures 1" 
+* k around until hat measures 6.5" from cast-on edge
+* next round: * k8, pm *
+* next round: * k6, k2tog *
+* next round: k
+* next round: * k5, k2tog *
+* next round: k
+* next round: * k4, k2tog *
+* next round: k
+* next round: * k3, k2tog *
+* next round: k
+* next round: * k2, k2tog *
+* next round k
+* next round: k2tog*
+
 
