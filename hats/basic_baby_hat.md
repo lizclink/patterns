@@ -18,3 +18,11 @@
   * OR 4 DPNS
 * 1 tapestry needle for weaving in ends
 * stitch marker for beginning of round, additional stitch markers to mark decreases if desired
+
+### Abbreviations
+* k - knit
+* p - purl
+* k2tog - knit 2 together
+* pm - place marker
+* sm - slip marker
+
