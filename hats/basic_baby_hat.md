@@ -2,8 +2,8 @@
 
 ## Todo
 
-- [ ] Add yarn suggestion
-- [ ] Add notions
+- [x] Add yarn suggestion
+- [x] Add notions
 - [ ] Add guide/key to abbreviations
 - [ ] Add pattern instructions
 
